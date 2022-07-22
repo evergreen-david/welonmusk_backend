@@ -26,4 +26,4 @@ Endpoint APIs are defined <a href="https://documenter.getpostman.com/view/981666
 
 ## Contact me
 Please share your thoughts on this project.<br>
-E-mail : leesangrok1118@gmail.com
+E-mail: leesangrok1118@gmail.com
