@@ -1,7 +1,4 @@
-## Introduction
-Tesla website clone (https://www.tesla.com/)<br>
-Developed by a team of 4 developers (3 Front-End, 1 Back-End)<br>
-[Front-End GitHub Repository](https://github.com/wecode-bootcamp-korea/WelonMusk_frontend)
+
 
 ## Demo
 [![Watch the video](https://img.youtube.com/vi/JQ6JGS6QFsQ/0.jpg)](https://youtu.be/JQ6JGS6QFsQ)
